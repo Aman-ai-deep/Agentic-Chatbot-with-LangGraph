@@ -1,0 +1,15 @@
+langchain
+langchain-groq
+langgraph
+langchain-core
+python-dotenv
+ipykernel
+streamlit
+langgraph-checkpoint-sqlite
+langchain-tavily==0.2.18
+tavily-python==0.7.26
+langchain-community==0.4.2
+faiss-cpu==1.14.3
+pypdf==6.13.2
+langchain-text-splitters==1.1.2
+langchain-ollama
